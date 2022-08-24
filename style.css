@@ -1,0 +1,192 @@
+.card {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.fw-bold {
+    font-weight: bold;
+    font-size: 28px;
+    text-align: left;
+
+}
+
+.col-4-bold {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+}
+
+.col-4 {
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.dv-margin {
+    margin-top: 235px;
+}
+
+.eyebrow-new {
+    background-color: #41c3a4;
+    color: #fff;
+    top: 10px;
+    position: absolute;
+    left: -6px;
+    padding: 0 1rem;
+    font-size: .7rem;
+    text-transform: uppercase;
+}
+
+.eyebrow-trending {
+    background-color: #ffdb47;
+    color: #292929;
+    top: 30px;
+    position: absolute;
+    left: -6px;
+    padding: 0 1rem;
+    font-size: .7rem;
+    text-transform: uppercase;
+}
+
+.eyebrow-trend {
+    background-color: #ffdb47;
+    color: #292929;
+    top: 10px;
+    position: absolute;
+    left: -6px;
+    padding: 0 1rem;
+    font-size: .7rem;
+    text-transform: uppercase;
+}
+
+.eyebrow-popular {
+    background-color: #d85555da;
+    color: #fff;
+    top: 10px;
+    position: absolute;
+    left: -6px;
+    padding: 0 1rem;
+    font-size: .7rem;
+    text-transform: uppercase;
+}
+
+.box {
+    position: absolute;
+    padding-right: 40px;
+}
+
+
+.my-img {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    cursor: pointer;
+}
+
+.card:hover .my-img {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.img-container:hover .my-img {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+a.one:visited {color:#292929;}
+a.one:hover {color: blue;}
+
+.text-con {
+    font-family: TeXGyreHerosBold,Helvetica,Arial,sans-serif;
+}
+
+.fs-s {
+    color: #292929;
+    font-size: .8rem;
+}
+
+.block-gray {
+    display: block!important;
+    color:#757575;
+}
+
+a.two:visited {color:#757575; text-decoration: none;}
+a.two:hover {color: #292929; text-decoration: none;}
+
+.text-trend {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 1rem!important;
+    color: #878787!important;
+    line-height: 1.4;
+    font-family: TeXGyreHerosBold,Helvetica,Arial,sans-serif;
+    font-size: .8rem;
+}
+
+.text-col-4 {
+    color: #292929;
+    line-height: 1.4;
+    font-size: medium;
+}
+
+.mar {
+    margin-top: 90px;
+    padding-top: 50px;
+}
+
+a.three:visited {color: #878787; text-decoration: none;}
+a.three:hover {color: #767676; text-decoration: none;}
+
+/*
+Serge Schoemaker Architects Renovates Historic Amsterdam Canal House
+*/
+
+.center {
+    text-align: center;
+}
+
+.demo {
+
+    color: #fff;
+    text-transform: uppercase;
+
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    top: 20px;
+    margin-top: 10px;
+}
+
